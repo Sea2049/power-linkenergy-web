@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>首页图片方向对比</title>
+    <style>
+      :root {
+        --navy: #071c49;
+        --blue: #18bbff;
+        --ink: #1b2b46;
+        --muted: #64748b;
+        --line: #dce5f0;
+        --bg: #f4f8fc;
+        --card: #ffffff;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: linear-gradient(180deg, #eef4fa 0%, #f8fbfe 100%);
+        color: var(--ink);
+        font: 16px/1.6 Arial, Helvetica, sans-serif;
+      }
+      .wrap { width: min(1260px, calc(100% - 32px)); margin: 0 auto; padding: 40px 0 64px; }
+      h1 { margin: 0 0 12px; font-size: 42px; line-height: 1.1; }
+      .sub { margin: 0 0 24px; color: var(--muted); max-width: 820px; }
+      .hint {
+        margin: 0 0 28px;
+        padding: 14px 18px;
+        border-radius: 16px;
+        background: rgba(7, 28, 73, 0.06);
+        color: var(--navy);
+      }
+      .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        overflow: hidden;
+        box-shadow: 0 18px 44px rgba(7, 28, 73, 0.08);
+      }
+      .mock {
+        min-height: 420px;
+        padding: 18px;
+        background: #fff;
+      }
+      .frame {
+        min-height: 384px;
+        border-radius: 20px;
+        overflow: hidden;
+        border: 1px solid #cfd9e6;
+        background: #fff;
+      }
+      .nav {
+        height: 52px;
+        background: #fff;
+        border-bottom: 1px solid #dde6f0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 18px;
+      }
+      .logo {
+        font-weight: 700;
+        color: var(--navy);
+        font-size: 18px;
+      }
+      .logo span { color: var(--blue); }
+      .menu {
+        width: 180px;
+        height: 10px;
+        border-radius: 999px;
+        background: linear-gradient(90deg, #d8e3ef 0%, #d8e3ef 70%, transparent 70%);
+      }
+      .hero {
+        position: relative;
+        background: linear-gradient(135deg, #082563 0%, #0e3c8a 60%, #1aa8ea 100%);
+      }
+      .label {
+        display: inline-block;
+        margin-bottom: 10px;
+        padding: 6px 12px;
+        border-radius: 999px;
+        background: rgba(24, 187, 255, 0.12);
+        color: var(--navy);
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+      }
+      .body { padding: 22px; }
+      h2 { margin: 0 0 8px; font-size: 23px; }
+      p { margin: 0; color: var(--muted); }
+      ul { margin: 14px 0 0; padding-left: 18px; }
+      li { margin: 6px 0; }
+      .pick { margin-top: 14px; font-weight: 700; color: var(--blue); }
+
+      .approach-a .hero {
+        height: 182px;
+        padding: 22px;
+      }
+      .approach-a .hero::after {
+        content: "";
+        position: absolute;
+        right: 18px;
+        bottom: 16px;
+        width: 178px;
+        height: 118px;
+        border-radius: 18px;
+        background: linear-gradient(135deg, rgba(255,255,255,.16), rgba(24,187,255,.5));
+        border: 1px solid rgba(255,255,255,.18);
+      }
+      .approach-a .title, .approach-b .title, .approach-c .title {
+        width: 52%;
+        height: 16px;
+        border-radius: 10px;
+        background: rgba(255,255,255,.88);
+        margin-bottom: 14px;
+      }
+      .approach-a .text, .approach-b .text, .approach-c .text {
+        width: 62%;
+        height: 11px;
+        border-radius: 999px;
+        background: rgba(255,255,255,.34);
+        margin-bottom: 10px;
+      }
+      .approach-a .text.small, .approach-b .text.small, .approach-c .text.small { width: 46%; }
+      .approach-a .solutions {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        padding: 16px;
+      }
+      .approach-a .solution-card {
+        border: 1px solid #dbe4ef;
+        border-radius: 16px;
+        overflow: hidden;
+        background: #fff;
+      }
+      .approach-a .solution-card .img {
+        height: 72px;
+        background: linear-gradient(135deg, #d7ecfa, #7cc6ea);
+      }
+      .approach-a .solution-card .copy {
+        height: 54px;
+        margin: 12px;
+        border-radius: 12px;
+        background: #eef4f9;
+      }
+
+      .approach-b .hero {
+        height: 182px;
+        display: grid;
+        grid-template-columns: 1.15fr .85fr;
+      }
+      .approach-b .hero-copy {
+        padding: 22px;
+      }
+      .approach-b .hero-image {
+        background: linear-gradient(135deg, rgba(255,255,255,.12), rgba(24,187,255,.52));
+        border-left: 1px solid rgba(255,255,255,.12);
+      }
+      .approach-b .solutions {
+        display: grid;
+        gap: 12px;
+        padding: 16px;
+      }
+      .approach-b .row {
+        display: grid;
+        grid-template-columns: 112px 1fr;
+        gap: 12px;
+        border: 1px solid #dbe4ef;
+        border-radius: 16px;
+        overflow: hidden;
+      }
+      .approach-b .row .img { background: linear-gradient(135deg, #dff0fb, #8ecdea); min-height: 78px; }
+      .approach-b .row .copy { margin: 14px 14px 14px 0; border-radius: 12px; background: #eef4f9; }
+
+      .approach-c .hero {
+        height: 182px;
+        padding: 22px;
+        overflow: hidden;
+      }
+      .approach-c .hero::after {
+        content: "";
+        position: absolute;
+        inset: auto 20px 18px auto;
+        width: 190px;
+        height: 90px;
+        border-radius: 999px;
+        background: radial-gradient(circle at left, rgba(24,187,255,.92), rgba(24,187,255,0));
+      }
+      .approach-c .cluster {
+        display: grid;
+        grid-template-columns: 1.1fr .9fr;
+        gap: 12px;
+        padding: 16px;
+      }
+      .approach-c .left-stack {
+        display: grid;
+        gap: 12px;
+      }
+      .approach-c .panel,
+      .approach-c .big-panel {
+        border-radius: 16px;
+        border: 1px solid #dbe4ef;
+        background: linear-gradient(135deg, #eef7fd, #c8e4f6);
+      }
+      .approach-c .panel { min-height: 84px; }
+      .approach-c .big-panel { min-height: 180px; }
+
+      @media (max-width: 980px) {
+        .grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>首页首屏 + 方案区，有 3 种图片摆法</h1>
+      <p class="sub">你已经选了“首页视觉增强 + 场景专业感”。下面是 3 个方向，我会建议你选中间这个，再继续做真实图片映射。</p>
+      <div class="hint">回复我一个选项即可：A1 大横幅场景、A2 分栏专业方案、A3 深色科技氛围。</div>
+
+      <div class="grid">
+        <section class="card">
+          <div class="mock">
+            <div class="frame approach-a">
+              <div class="nav">
+                <div class="logo">Powerlink <span>energy</span></div>
+                <div class="menu"></div>
+              </div>
+              <div class="hero">
+                <div class="title"></div>
+                <div class="text"></div>
+                <div class="text"></div>
+                <div class="text small"></div>
+              </div>
+              <div class="solutions">
+                <div class="solution-card"><div class="img"></div><div class="copy"></div></div>
+                <div class="solution-card"><div class="img"></div><div class="copy"></div></div>
+                <div class="solution-card"><div class="img"></div><div class="copy"></div></div>
+              </div>
+            </div>
+          </div>
+          <div class="body">
+            <span class="label">A1</span>
+            <h2>大横幅场景图</h2>
+            <p>第一屏直接上大场景图，下面方案卡片再配小图，视觉冲击最强。</p>
+            <ul>
+              <li>优点：一眼看起来像成熟官网</li>
+              <li>缺点：最容易暴露第三方品牌元素</li>
+              <li>适合：如果你已经有自己的高质量场景图</li>
+            </ul>
+            <div class="pick">不推荐当前直接用供应商图走这条</div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="mock">
+            <div class="frame approach-b">
+              <div class="nav">
+                <div class="logo">Powerlink <span>energy</span></div>
+                <div class="menu"></div>
+              </div>
+              <div class="hero">
+                <div class="hero-copy">
+                  <div class="title"></div>
+                  <div class="text"></div>
+                  <div class="text"></div>
+                  <div class="text small"></div>
+                </div>
+                <div class="hero-image"></div>
+              </div>
+              <div class="solutions">
+                <div class="row"><div class="img"></div><div class="copy"></div></div>
+                <div class="row"><div class="img"></div><div class="copy"></div></div>
+              </div>
+            </div>
+          </div>
+          <div class="body">
+            <span class="label">A2</span>
+            <h2>分栏专业方案型</h2>
+            <p>首屏右侧放一张克制的场景图，下面方案区用横向图文卡片，专业感和品牌安全性最平衡。</p>
+            <ul>
+              <li>优点：最适合当前抓到的场景图</li>
+              <li>缺点：视觉冲击不如整屏大图</li>
+              <li>适合：现在这版 Powerlink 官网首发上线</li>
+            </ul>
+            <div class="pick">推荐：当前最稳妥，也最像方案官网</div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="mock">
+            <div class="frame approach-c">
+              <div class="nav">
+                <div class="logo">Powerlink <span>energy</span></div>
+                <div class="menu"></div>
+              </div>
+              <div class="hero">
+                <div class="title"></div>
+                <div class="text"></div>
+                <div class="text"></div>
+                <div class="text small"></div>
+              </div>
+              <div class="cluster">
+                <div class="left-stack">
+                  <div class="panel"></div>
+                  <div class="panel"></div>
+                </div>
+                <div class="big-panel"></div>
+              </div>
+            </div>
+          </div>
+          <div class="body">
+            <span class="label">A3</span>
+            <h2>深色科技氛围型</h2>
+            <p>第一屏偏科技和品牌氛围，真实图片退到方案区，整体更现代，但更像科技公司官网。</p>
+            <ul>
+              <li>优点：对第三方品牌图依赖更低</li>
+              <li>缺点：首页行业落地感会弱一些</li>
+              <li>适合：后续你有自己品牌素材后再升级</li>
+            </ul>
+            <div class="pick">可作为二期升级方向</div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>

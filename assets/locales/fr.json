@@ -1,0 +1,800 @@
+{
+  "site": {
+    "tagline": "Solutions d'alimentation intégrées pour applications critiques",
+    "email": "Bob-Wang@power-linkenergy.com",
+    "whatsapp": "+86 13534190063",
+    "domain": "www.power-linkenergy.com",
+    "ogImage": "/assets/images/og-share-fr.jpg",
+    "ogImageAlt": "Solutions d'alimentation intégrées Powerlink Energy pour applications critiques",
+    "ogImageWidth": 1200,
+    "ogImageHeight": 630,
+    "nav": [
+      {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
+        "label": "Solutions",
+        "href": "/solutions/"
+      },
+      {
+        "label": "Produits",
+        "href": "/products/"
+      },
+      {
+        "label": "Cadres de référence",
+        "href": "/cases/"
+      },
+      {
+        "label": "À propos de nous",
+        "href": "/about/"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact/"
+      }
+    ]
+  },
+  "home": {
+    "heroTitle": "Solutions d'alimentation intégrées pour applications critiques",
+    "heroBody": "Powerlink Energy fournit des systèmes UPS, des solutions de stockage d'énergie, de l'équipement d'alimentation télécom, des modules DC/DC, du câblage industriel et des accessoires de surveillance pour centres de données, sites télécom, stockage d'énergie commercial et autres environnements exigeants.",
+    "heroImage": "/downloads/supplier_images/易事特集团股份有限公司/products/012-hero-optimized.jpg",
+    "heroImageAlt": "Stockage d'énergie commercial et équipement d'alimentation intégré",
+    "applications": [
+      "Centres de données",
+      "Sites télécom",
+      "Stockage d'énergie commercial et industriel",
+      "Stockage solaire résidentiel",
+      "Edge computing",
+      "Applications de surveillance de sécurité"
+    ],
+    "advantages": [
+      {
+        "title": "MOQ flexible",
+        "body": "Nous prenons en charge des quantités de commande concrètes pour l'approvisionnement en petites séries, les projets pilotes et les achats par phases.",
+        "icon": "layers"
+      },
+      {
+        "title": "Correspondance rapide de solutions",
+        "body": "Nous privilégions une communication rapide et un support de configuration concret basé sur l'application, la puissance requise et le marché cible.",
+        "icon": "bolt"
+      },
+      {
+        "title": "Intégration clé en main",
+        "body": "Nous aidons à combiner hôtes d'alimentation, batteries, modules DC/DC, câblage industriel et accessoires de surveillance en packages de solutions complets.",
+        "icon": "grid"
+      },
+      {
+        "title": "Support réactif",
+        "body": "Nous valorisons une communication efficace et un support concret tout au long de la sélection produit, du devis et du suivi de projet.",
+        "icon": "chat"
+      }
+    ]
+  },
+  "contact": {
+    "heroImage": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+    "heroImageAlt": "Équipement télécom et alimentation de secours intégré pour les demandes de projet",
+    "pageTitle": "Contactez-nous | Powerlink Energy",
+    "pageDescription": "Contactez Powerlink Energy pour toute demande concernant les UPS, batteries, onduleurs, alimentations télécom et solutions intégrées.",
+    "eyebrow": "Contact",
+    "title": "Contactez-nous",
+    "heroBody": "Dites-nous ce dont vous avez besoin, et nous vous aiderons à trouver la solution adaptée à votre application.",
+    "emailButton": "Envoyez-nous un e-mail",
+    "whatsappButton": "Contactez-nous via WhatsApp",
+    "overlayEyebrow": "Communication directe",
+    "overlayTitle": "Réponse projet rapide",
+    "overlayBody": "Partagez votre application, marché cible et plage de besoins. Nous vous aiderons rapidement à orienter la bonne direction.",
+    "directContactEyebrow": "Contact direct",
+    "directContactTitle": "Contactez directement notre équipe",
+    "directContactBody": "Vous recherchez des systèmes UPS, du stockage batterie, de l'équipement d'alimentation télécom, du câblage industriel ou un package de solution d'alimentation personnalisé ? Envoyez-nous les détails de votre projet et nous vous répondrons dans les plus brefs délais.",
+    "emailLabel": "E-mail",
+    "whatsappLabel": "WhatsApp",
+    "websiteLabel": "Site web",
+    "promiseSteps": [
+      {
+        "title": "L'application d'abord",
+        "body": "Indiquez-nous le scénario et le marché cible afin que nous puissions orienter le bon parcours de solution."
+      },
+      {
+        "title": "Communication claire",
+        "body": "Nous maintenons une discussion concrète autour de la plage de besoins, du périmètre produit et de la quantité."
+      },
+      {
+        "title": "Suivi rapide",
+        "body": "Nous privilégions un retour rapide pour les clients qui évaluent ou préparent une demande de projet."
+      }
+    ],
+    "formEyebrow": "Formulaire de demande",
+    "formTitle": "Envoyez votre demande",
+    "formIntro": "Pour nous permettre de répondre plus rapidement, veuillez indiquer votre scénario d'application, la plage de puissance, le marché cible, la quantité estimée et la catégorie de produit concernée.",
+    "formNote": "L'envoi de ce formulaire ouvre votre client e-mail par défaut avec une demande préremplie. Si aucun client e-mail n'est disponible, contactez-nous directement par e-mail ou WhatsApp.",
+    "formLabels": {
+      "name": "Nom",
+      "company": "Entreprise",
+      "country": "Pays",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "application": "Application",
+      "productInterest": "Produit d'intérêt",
+      "message": "Message"
+    },
+    "formSubmit": "Envoyez votre demande",
+    "formStatusText": "Ouverture de votre client de messagerie avec les détails de la demande."
+  },
+  "about": {
+    "pageTitle": "À propos de Powerlink Energy",
+    "pageDescription": "Découvrez comment Powerlink Energy aborde l'alimentation intégrée pour les applications critiques.",
+    "hero": {
+      "eyebrow": "À propos de nous",
+      "title": "À propos de Powerlink Energy",
+      "body": "Powerlink Energy est un fournisseur orienté solutions, spécialisé dans les systèmes d'alimentation intégrés pour applications critiques.",
+      "primaryButton": "Explorer les solutions",
+      "secondaryButton": "Parlez à notre équipe",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "Système de stockage batterie conteneurisé pour applications commerciales et industrielles",
+      "overlayEyebrow": "Positionnement professionnel",
+      "overlayTitle": "Scénario d'abord, intégration au centre",
+      "overlayBody": "Conçu pour les clients qui ont besoin d'un accompagnement projet concret plutôt qu'une simple liste de produits."
+    },
+    "why": {
+      "eyebrow": "Pourquoi Powerlink Energy",
+      "title": "Conçu autour de solutions d'alimentation viables",
+      "body": "Nous nous concentrons sur la façon dont hôtes d'alimentation, batteries, équipements de conversion, câblage et accessoires de surveillance fonctionnent ensemble dans des projets réels.",
+      "cards": [
+        {
+          "index": "01",
+          "title": "Réflexion par scénario",
+          "body": "Nous faisons correspondre les produits aux applications telles que centres de données, sites télécom, projets de stockage et environnements edge."
+        },
+        {
+          "index": "02",
+          "title": "Approvisionnement intégré",
+          "body": "Nous combinons UPS, systèmes batterie, modules DC/DC, onduleurs et accessoires en un seul parcours d'approvisionnement concret."
+        },
+        {
+          "index": "03",
+          "title": "Réponse rapide",
+          "body": "Nous privilégions une communication claire, une correspondance rapide et un suivi ponctuel pendant le devis et les discussions de projet."
+        },
+        {
+          "index": "04",
+          "title": "Coopération flexible",
+          "body": "Nous prenons en charge les commandes en petites séries et la coopération projet à long terme pour les clients ayant besoin d'un support d'approvisionnement concret."
+        }
+      ]
+    },
+    "whatWeDo": {
+      "eyebrow": "Ce que nous faisons",
+      "title": "Catégories intégrées pour applications critiques",
+      "body1": "Nous nous concentrons sur la combinaison de produits concrets en solutions d'alimentation viables pour les clients en centres de données, infrastructures télécom, stockage d'énergie, edge computing et autres environnements sensibles à l'alimentation.",
+      "body2": "Au lieu de proposer uniquement des produits isolés, nous mettons l'accent sur la correspondance par application et l'intégration clé en main.",
+      "categories": [
+        "Systèmes UPS",
+        "Stockage batterie lithium",
+        "Onduleurs solaires et hybrides",
+        "Systèmes d'alimentation télécom",
+        "Modules DC/DC",
+        "Câblage industriel M12",
+        "Accessoires de surveillance et de détection"
+      ]
+    },
+    "whyChooseUs": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Professionnel et fiable",
+      "body": "Nous pensons qu'un bon support d'approvisionnement ne se limite pas à la disponibilité des produits. Il repose aussi sur une réponse plus rapide, une communication plus claire, une correspondance concrète et un suivi fiable.",
+      "points": [
+        {
+          "label": "Couverture des scénarios :",
+          "value": "centre de données, télécom, stockage, edge, surveillance"
+        },
+        {
+          "label": "Mode de coopération :",
+          "value": "flexible pour les projets et les achats par phases"
+        },
+        {
+          "label": "Communication :",
+          "value": "direct, réactif et orienté solutions"
+        }
+      ]
+    },
+    "howWeWork": {
+      "eyebrow": "Notre mode de travail",
+      "title": "Processus de collaboration concret",
+      "body": "Nous gardons le processus simple : comprendre l'application, faire correspondre la configuration et accompagner la communication jusqu'au devis et à la coordination de livraison.",
+      "steps": [
+        {
+          "title": "Comprendre",
+          "body": "Examiner l'application, la puissance requise et le contexte du marché."
+        },
+        {
+          "title": "Correspondance",
+          "body": "Combiner les bonnes catégories de produits en un parcours de solution concret."
+        },
+        {
+          "title": "Support",
+          "body": "Coordonner clairement la communication autour du devis, de l'approvisionnement et de la livraison."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Étape suivante",
+      "title": "Parlez-nous de votre application",
+      "body": "Si vous recherchez une solution d'alimentation concrète plutôt qu'une simple liste de produits, Powerlink Energy est prêt à accompagner votre projet.",
+      "primaryButton": "Contactez-nous",
+      "secondaryButton": "Explorer les solutions"
+    }
+  },
+  "solutions": [
+    {
+      "slug": "data-center-backup-power",
+      "title": "Alimentation de secours pour centres de données",
+      "summary": "Solutions d'alimentation de secours fiables pour salles serveurs de petite et moyenne taille, installations IDC et baies réseau.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/011-optimized.jpg",
+      "imageAlt": "Environnement d'équipement pour centres de données et alimentation de secours",
+      "intro": "Cette solution se concentre sur une continuité fiable d'alimentation de secours pour salles serveurs, baies réseau et déploiements de centres de données compacts où la disponibilité compte.",
+      "challenges": [
+        "Maintenir une sortie stable en cas d'instabilité ou de coupure du réseau.",
+        "Intégrer l'équipement de secours dans un espace technique limité.",
+        "Équilibrer l'autonomie, l'encombrement des batteries et le budget du projet."
+      ],
+      "configuration": [
+        "Hôte UPS online dimensionné pour la charge IT cible.",
+        "Banque de batteries lithium ou VRLA pour la durée de secours requise.",
+        "Accessoires de distribution entrée/sortie avec support de surveillance."
+      ],
+      "benefits": [
+        "Améliore la continuité d'alimentation pour les équipements IT critiques.",
+        "Prend en charge la montée en charge par phases pour des charges serveur croissantes.",
+        "Simplifie l'approvisionnement grâce à des équipements principaux et accessoires assortis."
+      ],
+      "support": "Nous aidons à clarifier les objectifs d'autonomie, la plage de puissance, les contraintes d'installation et le périmètre de livraison avant le devis."
+    },
+    {
+      "slug": "telecom-base-station-backup-power",
+      "title": "Alimentation de secours pour station de base télécom",
+      "summary": "Alimentation de secours intégrée pour pylônes télécom et sites de communication distants, avec performance stable et configuration flexible.",
+      "image": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+      "imageAlt": "Équipement d'alimentation télécom et UPS",
+      "intro": "Ce package prend en charge les sites télécom distribués nécessitant une alimentation de secours fiable, un encombrement compact et une maintenance simple.",
+      "challenges": [
+        "Les sites distants nécessitent une haute fiabilité avec un service sur site limité.",
+        "Les projets exigent souvent des combinaisons concrètes de redresseurs, batteries et accessoires.",
+        "Les différences d'environnement et de déploiement augmentent la complexité de configuration."
+      ],
+      "configuration": [
+        "Redresseur télécom ou unité d'alimentation principale UPS.",
+        "Banque de batteries adaptée aux exigences d'autonomie du site.",
+        "Modules de surveillance, disjoncteurs et câblage pour l'intégration sur site."
+      ],
+      "benefits": [
+        "Fournit un circuit d'approvisionnement concret pour les projets d'alimentation télécom.",
+        "Prend en charge le déploiement distribué sur plusieurs types de stations.",
+        "Maintient la configuration alignée sur l'autonomie cible et les conditions du site."
+      ],
+      "support": "Nous aidons à définir le périmètre produit selon le type de station, le profil de charge, l'objectif d'autonomie et les exigences du marché."
+    },
+    {
+      "slug": "commercial-industrial-energy-storage",
+      "title": "Stockage d'énergie commercial et industriel",
+      "summary": "Solutions de stockage concrètes pour effacement de pointe, alimentation de secours et gestion énergétique en environnements commerciaux et industriels.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/003-optimized.jpg",
+      "imageAlt": "Équipement de stockage d'énergie commercial et industriel",
+      "intro": "Cette solution cible les cas d'usage de stockage au niveau du site tels que l'effacement de pointe, l'optimisation horaire et le support de secours pour installations commerciales et industrielles.",
+      "challenges": [
+        "Les projets nécessitent une combinaison viable de stockage, onduleur et dispositifs de protection.",
+        "Les objectifs du site varient entre secours, arbitrage et optimisation énergétique.",
+        "Les clients ont besoin d'un parcours de configuration clair avant l'ingénierie approfondie."
+      ],
+      "configuration": [
+        "Rack ou armoire de stockage batterie.",
+        "Onduleur hybride ou PCS adapté au profil d'application.",
+        "Accessoires de surveillance, distribution et sécurité pour l'intégration sur site."
+      ],
+      "benefits": [
+        "Facilite les discussions concrètes de déploiement de stockage en début de cycle de vente.",
+        "Aide à structurer la correspondance produit autour des objectifs réels du site.",
+        "Facilite la transmission ultérieure à l'ingénierie grâce à un périmètre produit plus clair."
+      ],
+      "support": "Nous alignons l'orientation stockage sur les objectifs d'application, les conditions d'installation et le périmètre de livraison attendu."
+    },
+    {
+      "slug": "residential-solar-storage",
+      "title": "Stockage solaire résidentiel",
+      "summary": "Solutions solaires hybrides et batterie pour foyers et petits bureaux nécessitant une alimentation stable et une capacité de secours.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/002-optimized.jpg",
+      "imageAlt": "Configuration onduleur hybride et stockage batterie",
+      "intro": "Ce package est conçu pour les utilisateurs résidentiels et commerciaux légers ayant besoin de stockage lié au solaire, d'une capacité de secours et d'une logique de déploiement simple.",
+      "challenges": [
+        "Chaque foyer nécessite un équilibre différent entre secours, autoconsommation et budget.",
+        "Les utilisateurs souhaitent des combinaisons de produits plus simples plutôt qu'une sélection de catégories fragmentée.",
+        "Les installateurs ont besoin d'un périmètre matériel clair pour le devis et la planification."
+      ],
+      "configuration": [
+        "Onduleur hybride ou onduleur solaire.",
+        "Pack batterie lithium adapté aux objectifs de secours et d'énergie.",
+        "Accessoires de base et surveillance pour un fonctionnement sûr."
+      ],
+      "benefits": [
+        "Aide à combiner le choix d'onduleur et de stockage en un seul parcours.",
+        "Facilite les discussions sur le secours résidentiel et l'autoconsommation.",
+        "Convient aux projets nécessitant une configuration concrète et accessible."
+      ],
+      "support": "Nous aidons à orienter le choix onduleur et stockage selon les besoins de secours, l'usage quotidien et le scénario d'installation."
+    },
+    {
+      "slug": "edge-computing-power",
+      "title": "Alimentation pour edge computing",
+      "summary": "Systèmes d'alimentation compacts et efficaces pour nœuds edge, charges IT distribuées et installations à espace limité.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/001-clean-optimized.jpg",
+      "imageAlt": "Équipement d'alimentation compact pour charges IT distribuées",
+      "intro": "Ce scénario s'adresse aux environnements IT distribués où une alimentation de secours compacte et un fonctionnement fiable sont nécessaires à proximité de la charge.",
+      "challenges": [
+        "Les sites edge disposent souvent d'un espace rack ou armoire limité.",
+        "Le support d'alimentation doit rester continu malgré une petite échelle de déploiement.",
+        "Les projets bénéficient de combinaisons matérielles compactes et prêtes à l'intégration."
+      ],
+      "configuration": [
+        "Hôte UPS compact ou module de secours distribué.",
+        "Pack batterie dimensionné pour une autonomie courte à moyenne.",
+        "Accessoires de surveillance et de connexion pour un déploiement rapide."
+      ],
+      "benefits": [
+        "Assure la continuité d'alimentation distribuée pour les nœuds edge.",
+        "Maintient l'encombrement de l'équipement adapté aux environnements compacts.",
+        "Simplifie l'approvisionnement pour les déploiements de petite taille mais sensibles à l'alimentation."
+      ],
+      "support": "Nous aidons à évaluer l'encombrement, l'autonomie et les contraintes environnementales avant la correspondance finale des catégories."
+    },
+    {
+      "slug": "safety-monitoring-solutions",
+      "title": "Solutions de surveillance de sécurité",
+      "summary": "Packages de solutions orientés surveillance pour détection de température, supervision environnementale et applications liées à la sécurité.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "Équipement de surveillance électrique et de supervision industrielle",
+      "intro": "Cette solution se concentre sur les accessoires de surveillance et les éléments d'alimentation de support pour la supervision de sécurité, la détection et les scénarios d'alerte environnementale.",
+      "challenges": [
+        "Les projets ont souvent besoin à la fois d'un support d'alimentation et d'accessoires de détection.",
+        "Les environnements de surveillance exigent des combinaisons différentes de sondes, câblage et éléments d'intégration.",
+        "Les clients souhaitent une liste concrète qui dépasse un seul SKU produit."
+      ],
+      "configuration": [
+        "Hôte de surveillance ou équipement de support d'alimentation.",
+        "Capteurs, sondes ou accessoires de terrain adaptés à l'environnement.",
+        "Câblage industriel et pièces de connexion pour le déploiement."
+      ],
+      "benefits": [
+        "Relie les accessoires de détection au contexte d'alimentation environnant.",
+        "Facilite une communication projet plus claire pour les applications de surveillance.",
+        "Améliore l'exhaustivité des catégories pour un approvisionnement orienté sécurité."
+      ],
+      "support": "Nous aidons à définir l'environnement d'application, le périmètre des accessoires et les priorités d'intégration avant le devis."
+    }
+  ],
+  "products": [
+    {
+      "slug": "ups-systems",
+      "title": "Systèmes UPS",
+      "summary": "Systèmes d'alimentation de secours pour applications IT, télécom, edge et industrielles nécessitant une continuité d'alimentation stable.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/025-lineup-optimized.jpg",
+      "imageAlt": "Gamme de produits d'alimentation UPS et télécom",
+      "intro": "Les systèmes UPS restent une catégorie centrale pour les clients nécessitant une continuité de secours stable dans les cas d'usage IT, télécom et industriels.",
+      "applications": [
+        "Salles serveurs et baies de données",
+        "Télécom et communications distribuées",
+        "Environnements de contrôle industriel et edge"
+      ],
+      "includes": [
+        "Unités UPS online",
+        "Formats rack et tour",
+        "Options d'extension de batteries et d'accessoires"
+      ],
+      "benefits": [
+        "Assure une continuité de secours stable.",
+        "Convient à plusieurs échelles de déploiement.",
+        "Fonctionne bien dans le cadre de packages de projet intégrés."
+      ]
+    },
+    {
+      "slug": "lithium-battery-systems",
+      "title": "Systèmes de batteries lithium",
+      "summary": "Systèmes de stockage batterie lithium pour projets de secours, télécom et stockage d'énergie nécessitant une intégration concrète.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "Système de stockage batterie lithium conteneurisé",
+      "intro": "Les systèmes batterie lithium prennent en charge les applications de secours, de stockage et télécom nécessitant une planification d'autonomie concrète et une correspondance système flexible.",
+      "applications": [
+        "Extension d'autonomie UPS",
+        "Alimentation de secours télécom",
+        "Projets de support au stockage d'énergie"
+      ],
+      "includes": [
+        "Modules batterie rack",
+        "Options de stockage au niveau armoire",
+        "Composants liés à la gestion des batteries"
+      ],
+      "benefits": [
+        "Améliore la densité énergétique pour de nombreux projets.",
+        "Facilite les discussions sur le secours intégré et le stockage.",
+        "Compatible avec des configurations par phases et évolutives."
+      ]
+    },
+    {
+      "slug": "hybrid-solar-inverters",
+      "title": "Onduleurs hybrides / solaires",
+      "summary": "Catégories d'onduleurs hybrides et solaires pour applications résidentielles, commerciales et de conversion d'énergie liées au stockage.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/002-optimized.jpg",
+      "imageAlt": "Équipement onduleur hybride et stockage solaire",
+      "intro": "Cette catégorie prend en charge les projets solaires et hybrides nécessitant un équipement de conversion adapté aux objectifs de stockage ou de raccordement réseau.",
+      "applications": [
+        "Stockage solaire résidentiel",
+        "Secours commercial léger et autoconsommation",
+        "Projets de conversion liés à l'énergie"
+      ],
+      "includes": [
+        "Unités onduleur hybride",
+        "Variantes d'onduleurs solaires",
+        "Accessoires et éléments de support pour la surveillance"
+      ],
+      "benefits": [
+        "Aide à combiner la planification de conversion et de stockage.",
+        "Facilite la sélection concrète de catégories avant l'ingénierie système.",
+        "Convient aux discussions résidentielles et commerciales légères."
+      ]
+    },
+    {
+      "slug": "telecom-dc-power",
+      "title": "Alimentation télécom et DC",
+      "summary": "Équipement d'alimentation télécom et modules de support DC pour sites de communication distribués et applications d'alimentation industrielle.",
+      "image": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+      "imageAlt": "Équipement d'alimentation télécom et DC",
+      "intro": "Cette catégorie couvre l'équipement d'alimentation télécom et les modules de support DC pour sites distribués et environnements de projet associés.",
+      "applications": [
+        "Stations de base et salles télécom",
+        "Déploiements de communication distante",
+        "Scénarios de support DC industriel"
+      ],
+      "includes": [
+        "Systèmes redresseurs",
+        "Modules DC et matériel de support",
+        "Accessoires de surveillance et de protection"
+      ],
+      "benefits": [
+        "Accompagne les projets orientés télécom avec un périmètre de catégories concret.",
+        "Combine l'équipement DC principal avec les accessoires de support.",
+        "S'adapte bien aux conditions de déploiement distribué."
+      ]
+    },
+    {
+      "slug": "monitoring-industrial-cabling",
+      "title": "Surveillance et câblage industriel",
+      "summary": "Accessoires de surveillance, composants de détection et câblage industriel pour l'intégration d'alimentation et les applications de supervision.",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "Accessoires de surveillance et équipement d'intégration industrielle",
+      "intro": "Cette catégorie aide à compléter les projets nécessitant des accessoires de détection, des éléments de surveillance et du câblage industriel, et non seulement l'équipement principal.",
+      "applications": [
+        "Surveillance environnementale et de sécurité",
+        "Complétion des accessoires d'alimentation",
+        "Projets d'intégration industrielle"
+      ],
+      "includes": [
+        "Capteurs et sondes",
+        "Câblage M12 et connexions industrielles",
+        "Accessoires de surveillance et pièces de terrain"
+      ],
+      "benefits": [
+        "Complète la couche accessoires des projets d'alimentation.",
+        "Prend en charge l'approvisionnement groupé pour le déploiement sur site.",
+        "Améliore la préparation du projet grâce aux pièces d'intégration incluses."
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "slug": "small-data-center-backup-power",
+      "title": "Alimentation de secours pour petit centre de données",
+      "summary": "Référence de configuration d'alimentation de secours pour salles serveurs compactes et environnements IDC.",
+      "application": "Salles serveurs compactes et environnements IDC",
+      "projectStatus": "Cadre de référence",
+      "heroImage": "/downloads/supplier_images/易事特集团股份有限公司/products/011-optimized.jpg",
+      "heroImageAlt": "Visuel de référence pour l'alimentation de secours de centre de données compact",
+      "gallery": [
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/008-optimized.jpg",
+          "alt": "Équipement de référence hôte UPS"
+        },
+        {
+          "src": "/downloads/supplier_images/佛山市华葆电源设备有限公司/other/020-optimized.jpg",
+          "alt": "Environnement de référence pour l'intégration d'alimentation de secours"
+        }
+      ],
+      "galleryNote": "Les visuels de référence illustrent le périmètre d'équipement typique. Des photos de projets clients vérifiés les remplaceront une fois approuvées.",
+      "overview": "Ce cadre explique une architecture de secours typique pour salles serveurs compactes et déploiements IDC nécessitant une planification claire de l'autonomie et de la continuité.",
+      "challenge": "Les clients ont généralement besoin d'une structure concrète montrant comment UPS, batteries et distribution de support peuvent fonctionner ensemble avant une revue d'ingénierie approfondie.",
+      "solutionDesign": "Le cadre combine un hôte UPS online, une capacité batterie adaptée et des accessoires pratiques de distribution et de surveillance en un parcours de référence clair.",
+      "mainConfiguration": [
+        "Hôte UPS online",
+        "Banque de batteries ou modules rack",
+        "Accessoires de distribution et de surveillance"
+      ],
+      "deliverySupport": "Nous facilitons la clarification en phase initiale autour de la plage de puissance, de la durée de secours, des contraintes d'armoire et du périmètre d'approvisionnement.",
+      "results": [
+        "Communication projet plus claire dès l'étape de devis",
+        "Une structure réutilisable pour des besoins similaires de petits centres de données",
+        "Une base pour les futurs éléments de projet vérifiés"
+      ]
+    },
+    {
+      "slug": "telecom-base-station-backup-power",
+      "title": "Alimentation de secours pour station de base télécom",
+      "summary": "Référence de solution de secours intégrée pour pylônes télécom et sites distribués.",
+      "application": "Pylônes télécom et sites distribués",
+      "projectStatus": "Cadre de référence",
+      "heroImage": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+      "heroImageAlt": "Visuel de référence pour l'alimentation de secours de station de base télécom",
+      "gallery": [
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/013-optimized.jpg",
+          "alt": "Référence d'équipement d'alimentation de secours télécom"
+        },
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/014-optimized.jpg",
+          "alt": "Référence d'accessoires d'intégration sur site"
+        }
+      ],
+      "galleryNote": "Les visuels de référence illustrent le périmètre d'équipement typique. Des photos de projets clients vérifiés les remplaceront une fois approuvées.",
+      "overview": "Ce cadre présente une structure de secours courante pour projets d'alimentation télécom nécessitant un déploiement sur site résilient et une logique de maintenance concrète.",
+      "challenge": "Les projets télécom distribués nécessitent souvent une explication plus claire de la planification d'autonomie, du choix redresseur ou UPS et du périmètre des accessoires sur site.",
+      "solutionDesign": "La structure de référence combine équipement d'alimentation télécom, stockage et accessoires clés dans un format plus facile à discuter avec acheteurs et partenaires de projet.",
+      "mainConfiguration": [
+        "Redresseur télécom ou hôte de secours",
+        "Banque de batteries",
+        "Accessoires de protection, surveillance et connexion"
+      ],
+      "deliverySupport": "Nous facilitons une définition concrète du périmètre selon les conditions du site, les objectifs d'autonomie et l'adéquation de livraison.",
+      "results": [
+        "Clarté accrue pour les discussions de projets télécom",
+        "Une structure de référence réutilisable au niveau du site",
+        "Un espace réservé clair pour les médias de cas vérifiés ultérieurs"
+      ]
+    },
+    {
+      "slug": "commercial-industrial-energy-storage",
+      "title": "Stockage d'énergie commercial et industriel",
+      "summary": "Référence de package de stockage d'énergie pour effacement de pointe, alimentation de secours et gestion énergétique au niveau du site.",
+      "application": "Effacement de pointe, alimentation de secours et gestion énergétique au niveau du site",
+      "projectStatus": "Cadre de référence",
+      "heroImage": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "heroImageAlt": "Système de stockage batterie conteneurisé pour applications commerciales et industrielles",
+      "gallery": [
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/002-optimized.jpg",
+          "alt": "Équipement de référence onduleur hybride"
+        },
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/001-optimized.jpg",
+          "alt": "Référence d'équipement de stockage distribué"
+        }
+      ],
+      "galleryNote": "Les visuels de référence illustrent le périmètre d'équipement typique. Des photos de projets clients vérifiés les remplaceront une fois approuvées.",
+      "overview": "Ce cadre explique un package de stockage au niveau du site pour projets commerciaux et industriels où le secours et l'optimisation énergétique sont tous deux importants.",
+      "challenge": "Les projets de stockage ont souvent besoin d'un moyen plus simple d'expliquer le périmètre batteries, onduleurs et accessoires avant le début de l'ingénierie détaillée.",
+      "solutionDesign": "Le cadre combine unités de stockage, orientation onduleur et accessoires d'intégration sur site en un modèle explicatif de projet réutilisable.",
+      "mainConfiguration": [
+        "Unité de stockage batterie",
+        "Onduleur hybride ou PCS",
+        "Accessoires de surveillance, protection et distribution"
+      ],
+      "deliverySupport": "Nous facilitons une correspondance précoce autour des objectifs du site, de la plage de puissance et des limites concrètes du périmètre d'approvisionnement.",
+      "results": [
+        "Une explication structurée des opportunités récurrentes en stockage d'énergie",
+        "Meilleur alignement entre les besoins clients et le périmètre produit",
+        "Un système de pages prêt pour l'avenir, conçu pour l'ajout de projets vérifiés"
+      ]
+    }
+  ],
+  "ui": {
+    "a11y": {
+      "skipToMain": "Aller au contenu principal",
+      "breadcrumb": "Fil d'Ariane",
+      "pageContents": "Sommaire de la page"
+    },
+    "nav": {
+      "toggleAria": "Basculer la navigation",
+      "menu": "Menu",
+      "primaryAria": "Navigation principale"
+    },
+    "footer": {
+      "brand": "Powerlink Energy",
+      "tagline": "Support d'approvisionnement orienté scénario pour applications sensibles à l'alimentation et critiques.",
+      "directContact": "Contact direct"
+    },
+    "noscript": "JavaScript est facultatif sur ce site. La navigation principale et le contenu des pages restent accessibles sans lui.",
+    "buttons": {
+      "exploreSolutions": "Explorer les solutions",
+      "getQuote": "Obtenir un devis",
+      "learnMore": "En savoir plus",
+      "exploreSolution": "Explorer la solution",
+      "viewDetails": "Voir les détails",
+      "backTo": "Retour à {label}",
+      "emailUs": "Envoyez-nous un e-mail",
+      "whatsappUs": "Contactez-nous via WhatsApp",
+      "contactUs": "Contactez-nous",
+      "talkToTeam": "Parlez à notre équipe",
+      "sendInquiry": "Envoyez votre demande"
+    },
+    "labels": {
+      "email": "Email:",
+      "whatsapp": "WhatsApp:",
+      "website": "Site web :"
+    },
+    "cards": {
+      "solution": "Solution",
+      "product": "Produit",
+      "verifiedProjectAssets": "Éléments de projet vérifiés",
+      "projectVisualsLater": "Les visuels de projet seront ajoutés ultérieurement",
+      "verifiedMediaFallback": "Les médias de projet vérifiés seront ajoutés après approbation."
+    },
+    "metrics": {
+      "solutionScenarios": "scénarios de solution",
+      "productCategories": "catégories de produits",
+      "referenceFrameworks": "cadres de référence",
+      "integratedSupplyPath": "circuit d'approvisionnement intégré"
+    },
+    "home": {
+      "eyebrow": "Powerlink Energy",
+      "applications": {
+        "eyebrow": "Applications que nous servons",
+        "title": "Support concret pour environnements critiques",
+        "body": "Nous accompagnons les clients en environnements sensibles à l'alimentation et critiques avec des solutions concrètes basées sur les scénarios."
+      },
+      "solutions": {
+        "eyebrow": "Solutions par scénario",
+        "title": "Solutions conçues autour d'applications réelles",
+        "body": "Au lieu de proposer uniquement des produits isolés, nous aidons les clients à combiner le bon équipement en packages de solutions d'alimentation viables."
+      },
+      "products": {
+        "eyebrow": "Catégories de produits",
+        "title": "Catégories d'équipements principaux",
+        "body": "Notre portefeuille produits prend en charge l'approvisionnement standard et les configurations de projet intégrées."
+      },
+      "cases": {
+        "eyebrow": "Cadres de référence",
+        "title": "Structures de référence évolutives",
+        "body": "Nos cadres de référence expliquent dès maintenant les structures d'application typiques et pourront évoluer vers une bibliothèque de projets vérifiés."
+      },
+      "advantages": {
+        "eyebrow": "Pourquoi Powerlink Energy",
+        "title": "Réponse rapide, correspondance concrète, un seul circuit d'approvisionnement"
+      },
+      "contact": {
+        "eyebrow": "Parlez-nous de votre application",
+        "title": "Envoyez votre brief d'application et nous orienterons la bonne direction",
+        "body": "Indiquez-nous votre application, la puissance requise et le marché cible. Nous vous aiderons rapidement à trouver la bonne solution."
+      }
+    },
+    "pages": {
+      "home": {
+        "title": "Powerlink Energy | Solutions d'alimentation intégrées",
+        "description": "Solutions d'alimentation par scénario pour centres de données, sites télécom, stockage d'énergie et autres applications critiques."
+      },
+      "solutions": {
+        "title": "Solutions | Powerlink Energy",
+        "description": "Explorez les solutions d'alimentation intégrées par scénario de Powerlink Energy.",
+        "overviewTitle": "Solutions d'alimentation par scénario",
+        "overviewDescription": "Au lieu de proposer uniquement des produits isolés, nous aidons les clients à combiner le bon équipement en packages de solutions d'alimentation viables."
+      },
+      "products": {
+        "title": "Produits | Powerlink Energy",
+        "description": "Explorez les catégories de produits Powerlink Energy : UPS, batteries, onduleurs, alimentations télécom et accessoires de surveillance.",
+        "overviewTitle": "Catégories de produits pour acheteurs ciblés",
+        "overviewDescription": "Notre portefeuille produits prend en charge l'approvisionnement standard et les configurations de projet intégrées pour les acheteurs connaissant déjà leur catégorie technique."
+      },
+      "cases": {
+        "title": "Cadres de référence | Powerlink Energy",
+        "description": "Explorez les cadres de référence Powerlink Energy pour les structures d'application récurrentes et les futures bibliothèques de projets.",
+        "overviewTitle": "Cadres de référence pour l'expansion future des projets",
+        "overviewDescription": "Cette section présente des structures d'application réutilisables et du contenu de référence pouvant évoluer ultérieurement en bibliothèque de projets vérifiés."
+      }
+    },
+    "casesHero": {
+      "eyebrow": "Cadres de référence",
+      "title": "Cadres de référence pouvant évoluer en véritable bibliothèque de cas",
+      "body": "Utilisez un contenu de cadre structuré pour expliquer clairement les applications dès maintenant et ajouter ultérieurement des photos de projets vérifiés sans modifier le système de pages.",
+      "pills": [
+        "Piloté par scénario",
+        "Extensible",
+        "Prêt pour le projet"
+      ],
+      "panelEyebrow": "Comment nous structurons les cadres",
+      "panelTitle": "L'application d'abord, les ressources ensuite",
+      "panelBody": "Chaque page explique le besoin typique, la logique de conception, la configuration recommandée et les futurs médias projet dans un modèle réutilisable."
+    },
+    "detail": {
+      "tocTitle": "Sur cette page",
+      "ctaEyebrow": "Contactez Powerlink Energy",
+      "ctaTitle": "Besoin d'une correspondance produit concrète pour votre application ?",
+      "ctaBody": "Indiquez-nous votre application, marché cible et quantité prévue. Nous vous aiderons rapidement à trouver la bonne solution.",
+      "solutionEyebrow": "Détail de la solution",
+      "solutionPills": [
+        "Contenu orienté scénario",
+        "Support intégré",
+        "Parcours de livraison concret"
+      ],
+      "productEyebrow": "Catégorie de produit",
+      "productPills": [
+        "Approvisionnement par catégorie",
+        "Prêt à l'intégration",
+        "Support projet"
+      ],
+      "solutionCards": {
+        "overviewEyebrow": "Aperçu",
+        "overviewTitle": "Aperçu de la solution",
+        "challengesEyebrow": "Points de douleur",
+        "challengesTitle": "Défis clients",
+        "configurationEyebrow": "Configuration",
+        "configurationTitle": "Configuration principale",
+        "benefitsEyebrow": "Avantages",
+        "benefitsTitle": "Avantages clés",
+        "supportEyebrow": "Support",
+        "supportTitle": "Support à la livraison"
+      },
+      "productCards": {
+        "overviewEyebrow": "Aperçu",
+        "overviewTitle": "Aperçu de la catégorie",
+        "applicationsEyebrow": "Applications",
+        "applicationsTitle": "Applications",
+        "scopeEyebrow": "Périmètre",
+        "scopeTitle": "Périmètre de la catégorie",
+        "benefitsEyebrow": "Avantages",
+        "benefitsTitle": "Pourquoi les acheteurs choisissent cette catégorie"
+      },
+      "caseCards": {
+        "overviewEyebrow": "Aperçu",
+        "overviewTitle": "Aperçu du cadre",
+        "needEyebrow": "Besoin typique",
+        "needTitle": "Besoin typique",
+        "designEyebrow": "Conception de référence",
+        "designTitle": "Conception de référence",
+        "configurationEyebrow": "Configuration",
+        "configurationTitle": "Configuration recommandée",
+        "supportEyebrow": "Support",
+        "supportTitle": "Support à la livraison",
+        "outcomeEyebrow": "Résultat de référence",
+        "outcomeTitle": "Résultat de référence"
+      }
+    },
+    "gallery": {
+      "eyebrow": "Visuels de référence",
+      "title": "Périmètre d'équipement typique pour ce cadre",
+      "body": "Ces visuels soutiennent les discussions projet en phase initiale et seront remplacés par des médias de projets clients vérifiés lorsqu'ils seront disponibles."
+    },
+    "collectionLabels": {
+      "solutions": "Solutions",
+      "products": "Produits",
+      "cases": "Cadres de référence"
+    },
+    "notFound": {
+      "pageTitle": "404 | Powerlink Energy",
+      "pageDescription": "La page que vous recherchez n'existe pas, a été déplacée ou est temporairement indisponible.",
+      "eyebrow": "Page introuvable",
+      "title": "404",
+      "body": "La page demandée n'existe pas, le lien a changé ou l'adresse est temporairement indisponible. Vous pouvez revenir à l'accueil, consulter nos solutions ou contacter Powerlink Energy directement.",
+      "primaryButton": "Retour à l'accueil",
+      "solutionsButton": "Voir les solutions",
+      "contactButton": "Contactez-nous",
+      "note": "Si vous êtes arrivé ici via un lien obsolète, repartez de la page d'accueil ou envoyez-nous directement vos besoins projet."
+    },
+    "mailto": {
+      "subject": "Demande Powerlink Energy",
+      "messageHeading": "Message :",
+      "fields": {
+        "name": "Nom",
+        "company": "Entreprise",
+        "country": "Pays",
+        "email": "E-mail",
+        "whatsapp": "WhatsApp",
+        "application": "Application",
+        "product-interest": "Intérêt produit"
+      }
+    }
+  }
+}

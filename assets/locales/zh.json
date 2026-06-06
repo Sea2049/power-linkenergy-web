@@ -1,0 +1,800 @@
+{
+  "site": {
+    "tagline": "关键应用一体化电源解决方案",
+    "email": "Bob-Wang@power-linkenergy.com",
+    "whatsapp": "+86 13534190063",
+    "domain": "www.power-linkenergy.com",
+    "ogImage": "/assets/images/og-share-zh.jpg",
+    "ogImageAlt": "Powerlink Energy 关键应用一体化电源解决方案",
+    "ogImageWidth": 1200,
+    "ogImageHeight": 630,
+    "nav": [
+      {
+        "label": "首页",
+        "href": "/"
+      },
+      {
+        "label": "解决方案",
+        "href": "/solutions/"
+      },
+      {
+        "label": "产品",
+        "href": "/products/"
+      },
+      {
+        "label": "参考框架",
+        "href": "/cases/"
+      },
+      {
+        "label": "关于我们",
+        "href": "/about/"
+      },
+      {
+        "label": "联系我们",
+        "href": "/contact/"
+      }
+    ]
+  },
+  "home": {
+    "heroTitle": "关键应用一体化电源解决方案",
+    "heroBody": "Powerlink Energy 为数据中心、通信站点、工商业储能及其他严苛环境提供 UPS 系统、储能方案、通信电源设备、DC/DC 模块、工业线缆及监控配件。",
+    "heroImage": "/downloads/supplier_images/易事特集团股份有限公司/products/012-hero-optimized.jpg",
+    "heroImageAlt": "工商业储能及一体化电源设备",
+    "applications": [
+      "数据中心",
+      "通信站点",
+      "工商业储能",
+      "户用光储",
+      "边缘计算",
+      "安全监控应用"
+    ],
+    "advantages": [
+      {
+        "title": "灵活起订量",
+        "body": "我们支持小批量供货、试点项目和分阶段采购的务实起订量。",
+        "icon": "layers"
+      },
+      {
+        "title": "快速方案匹配",
+        "body": "我们根据应用场景、功率需求和目标市场，专注于快速沟通与务实的配置支持。",
+        "icon": "bolt"
+      },
+      {
+        "title": "一站式集成",
+        "body": "我们帮助将电源主机、电池、DC/DC 模块、工业线缆和监控配件组合为完整方案包。",
+        "icon": "grid"
+      },
+      {
+        "title": "快速响应支持",
+        "body": "我们重视在产品选型、报价和项目跟进全流程中的高效沟通与务实支持。",
+        "icon": "chat"
+      }
+    ]
+  },
+  "contact": {
+    "heroImage": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+    "heroImageAlt": "用于项目咨询的一体化通信与备用电源设备",
+    "pageTitle": "联系我们 | Powerlink Energy",
+    "pageDescription": "如需咨询 UPS、电池、逆变器、通信电源及一体化方案，请联系 Powerlink Energy。",
+    "eyebrow": "联系我们",
+    "title": "联系我们",
+    "heroBody": "告诉我们您的需求，我们将协助为您的应用匹配合适方案。",
+    "emailButton": "发送邮件",
+    "whatsappButton": "WhatsApp 联系",
+    "overlayEyebrow": "直接沟通",
+    "overlayTitle": "快速项目响应",
+    "overlayBody": "分享应用场景、目标市场及需求范围，我们将快速协助匹配正确方向。",
+    "directContactEyebrow": "直接联系",
+    "directContactTitle": "直接联系我们的团队",
+    "directContactBody": "需要 UPS 系统、电池储能、通信电源设备、工业线缆或定制电源方案包？请发送项目详情，我们将尽快回复。",
+    "emailLabel": "电子邮件",
+    "whatsappLabel": "WhatsApp",
+    "websiteLabel": "网站",
+    "promiseSteps": [
+      {
+        "title": "应用优先",
+        "body": "告知应用场景与目标市场，以便我们匹配正确方案路径。"
+      },
+      {
+        "title": "清晰沟通",
+        "body": "我们围绕需求范围、产品范围与数量保持务实讨论。"
+      },
+      {
+        "title": "快速跟进",
+        "body": "我们优先为正在评估或准备项目询价的客户提供及时反馈。"
+      }
+    ],
+    "formEyebrow": "询价表单",
+    "formTitle": "发送询价",
+    "formIntro": "为加快回复，请提供应用场景、功率范围、目标市场、预计数量及感兴趣的产品品类。",
+    "formNote": "提交表单将打开默认邮件客户端并预填询价内容；若无邮件客户端，请直接通过邮件或 WhatsApp 联系我们。",
+    "formLabels": {
+      "name": "姓名",
+      "company": "公司",
+      "country": "国家/地区",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "application": "应用场景",
+      "productInterest": "感兴趣的产品",
+      "message": "留言"
+    },
+    "formSubmit": "发送询价",
+    "formStatusText": "正在打开邮件客户端并填入询价详情。"
+  },
+  "about": {
+    "pageTitle": "关于 Powerlink Energy",
+    "pageDescription": "了解 Powerlink Energy 如何为关键应用提供一体化电源供应。",
+    "hero": {
+      "eyebrow": "关于我们",
+      "title": "关于 Powerlink Energy",
+      "body": "Powerlink Energy 是一家专注于关键应用一体化电源系统的方案驱动型供应商。",
+      "primaryButton": "浏览解决方案",
+      "secondaryButton": "与团队沟通",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "工商业集装箱式电池储能系统",
+      "overlayEyebrow": "专业定位",
+      "overlayTitle": "场景优先，聚焦集成",
+      "overlayBody": "为需要务实项目支持而非泛泛产品清单的客户而打造。"
+    },
+    "why": {
+      "eyebrow": "为何选择 Powerlink Energy",
+      "title": "围绕可落地的电源方案构建",
+      "body": "我们关注电源主机、电池、转换设备、线缆及监控配件在真实项目中如何协同。",
+      "cards": [
+        {
+          "index": "01",
+          "title": "场景化思维",
+          "body": "我们围绕数据中心、通信站点、储能项目及边缘环境等应用场景匹配产品。"
+        },
+        {
+          "index": "02",
+          "title": "集成供货",
+          "body": "我们将 UPS、电池系统、DC/DC 模块、逆变器及配件整合为一条务实的采购路径。"
+        },
+        {
+          "index": "03",
+          "title": "快速响应",
+          "body": "我们在报价与项目讨论中优先保障清晰沟通、快速匹配与及时跟进。"
+        },
+        {
+          "index": "04",
+          "title": "灵活合作",
+          "body": "我们既支持小批量订单，也支持需要务实供货支持的长期项目合作。"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "eyebrow": "我们的业务",
+      "title": "关键应用集成品类",
+      "body1": "我们专注将务实产品组合为可落地方案，服务数据中心、通信基础设施、储能、边缘计算及其他供电敏感环境客户。",
+      "body2": "我们不仅提供独立产品，更强调基于应用的匹配与一站式集成。",
+      "categories": [
+        "UPS 系统",
+        "锂电池储能",
+        "光伏与混合逆变器",
+        "通信电源系统",
+        "DC/DC 模块",
+        "工业 M12 线缆",
+        "监控与传感配件"
+      ]
+    },
+    "whyChooseUs": {
+      "eyebrow": "为何选择我们",
+      "title": "专业可靠",
+      "body": "我们认为优质的供货支持不仅在于产品可得性，更在于更快响应、更清晰沟通、务实匹配与可靠跟进。",
+      "points": [
+        {
+          "label": "场景覆盖：",
+          "value": "数据中心、通信、储能、边缘、监控"
+        },
+        {
+          "label": "合作方式：",
+          "value": "灵活支持项目合作与分阶段采购"
+        },
+        {
+          "label": "沟通方式：",
+          "value": "直接、响应迅速、以方案为导向"
+        }
+      ]
+    },
+    "howWeWork": {
+      "eyebrow": "我们的工作方式",
+      "title": "务实协作流程",
+      "body": "我们保持流程简洁：了解应用、匹配配置，并在报价与交付协调中提供沟通支持。",
+      "steps": [
+        {
+          "title": "了解",
+          "body": "了解应用场景、功率需求及市场背景。"
+        },
+        {
+          "title": "匹配",
+          "body": "将合适的产品品类组合为务实的方案路径。"
+        },
+        {
+          "title": "支持",
+          "body": "清晰协调报价、采购与交付沟通。"
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "下一步",
+      "title": "与我们讨论您的应用",
+      "body": "若您需要务实的电源方案而非泛泛的产品列表，Powerlink Energy 随时准备支持您的项目。",
+      "primaryButton": "联系我们",
+      "secondaryButton": "浏览解决方案"
+    }
+  },
+  "solutions": [
+    {
+      "slug": "data-center-backup-power",
+      "title": "数据中心备用电源",
+      "summary": "为中小型机房、IDC 设施及网络机柜提供可靠的备用电源解决方案。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/011-optimized.jpg",
+      "imageAlt": "数据中心与备用电源设备环境",
+      "intro": "本方案聚焦机房、网络机柜及紧凑型数据中心部署中对运行连续性要求较高的可靠备用电源保障。",
+      "challenges": [
+        "在市电波动或停电期间保持稳定输出。",
+        "在有限的技术机房空间内部署备用设备。",
+        "在备电时长、电池占地与项目预算之间取得平衡。"
+      ],
+      "configuration": [
+        "按目标 IT 负载选型的在线式 UPS 主机。",
+        "满足所需备电时长的锂电或 VRLA 电池组。",
+        "带监控支持的输入输出配电附件。"
+      ],
+      "benefits": [
+        "提升关键 IT 设备的供电连续性。",
+        "支持随服务器负载增长的分阶段扩容。",
+        "通过匹配核心设备与配件简化采购。"
+      ],
+      "support": "我们在报价前协助明确备电时长目标、功率范围、安装约束及交付范围。"
+    },
+    {
+      "slug": "telecom-base-station-backup-power",
+      "title": "通信基站备用电源",
+      "summary": "为通信塔及偏远通信站点提供性能稳定、配置灵活的集成备用电源。",
+      "image": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+      "imageAlt": "通信与 UPS 电源设备",
+      "intro": "本方案适用于需要可靠备用电源、紧凑占地和简便维护的分布式通信站点。",
+      "challenges": [
+        "偏远站点在有限现场服务条件下仍需高可靠性。",
+        "项目通常需要整流器、电池与配件的务实组合。",
+        "环境与部署差异增加了配置复杂度。"
+      ],
+      "configuration": [
+        "通信整流器或 UPS 主电源单元。",
+        "按站点自主供电需求匹配的电池组。",
+        "用于现场集成的监控模块、断路器及线缆。"
+      ],
+      "benefits": [
+        "为通信电源项目提供务实的供货路径。",
+        "支持多种站型的分布式部署。",
+        "使配置与目标备电时长及站点条件保持一致。"
+      ],
+      "support": "我们根据站型、负载特性、备电目标及市场需求协助匹配产品范围。"
+    },
+    {
+      "slug": "commercial-industrial-energy-storage",
+      "title": "工商业储能",
+      "summary": "面向工商业场景的削峰填谷、备用电源及能源管理务实储能方案。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/003-optimized.jpg",
+      "imageAlt": "工商业储能设备",
+      "intro": "本方案面向站点级储能应用，如削峰填谷、分时电价优化及工商业设施的备用支持。",
+      "challenges": [
+        "项目需要储能、逆变器与保护装置的可行组合。",
+        "站点目标在备用、套利与能源优化之间各不相同。",
+        "客户需要在深入工程设计前获得清晰的配置路径。"
+      ],
+      "configuration": [
+        "电池储能机架或机柜。",
+        "按应用特性匹配的混合逆变器或 PCS。",
+        "用于站点集成的监控、配电及安全附件。"
+      ],
+      "benefits": [
+        "在销售周期早期支持务实的储能部署讨论。",
+        "围绕真实站点目标构建产品匹配结构。",
+        "通过更清晰的产品范围简化后续工程交接。"
+      ],
+      "support": "我们根据应用目标、安装条件及预期交付范围对齐储能方向。"
+    },
+    {
+      "slug": "residential-solar-storage",
+      "title": "户用光储",
+      "summary": "为家庭及小型办公场所提供稳定供电与备用能力的光储混合方案。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/002-optimized.jpg",
+      "imageAlt": "混合逆变器与电池储能配置",
+      "intro": "本方案面向需要光伏联动储能、备用能力及简便部署逻辑的户用与轻商用用户。",
+      "challenges": [
+        "不同家庭在备用、自发自用与预算之间需要不同平衡。",
+        "用户希望获得更简单的产品组合，而非零散的品类选择。",
+        "安装商需要清晰的硬件范围以便报价与规划。"
+      ],
+      "configuration": [
+        "混合逆变器或光伏逆变器。",
+        "按备用与用能目标匹配的锂电池组。",
+        "保障安全运行的基础配件与监控。"
+      ],
+      "benefits": [
+        "将逆变器与储能选型整合为一条路径。",
+        "支持户用备用与自发自用相关讨论。",
+        "适用于需要务实、易上手配置的项目。"
+      ],
+      "support": "我们根据备用需求、日常用电及安装场景协助匹配逆变器与储能方向。"
+    },
+    {
+      "slug": "edge-computing-power",
+      "title": "边缘计算电源",
+      "summary": "面向边缘节点、分布式 IT 负载及空间受限安装的紧凑高效电源系统。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/001-clean-optimized.jpg",
+      "imageAlt": "分布式 IT 负载紧凑电源设备",
+      "intro": "本场景适用于需要在负载近端提供紧凑备用电源与可靠运行的分布式 IT 环境。",
+      "challenges": [
+        "边缘站点通常机架或机柜空间有限。",
+        "即便部署规模较小，供电仍需保持连续性。",
+        "项目受益于紧凑、可快速集成的硬件组合。"
+      ],
+      "configuration": [
+        "紧凑型 UPS 主机或分布式备用模块。",
+        "按短至中等备电时长配置的电池组。",
+        "用于快速部署的监控与连接附件。"
+      ],
+      "benefits": [
+        "支持边缘节点的分布式供电连续性。",
+        "使设备占地与紧凑环境相匹配。",
+        "简化小规模但对供电敏感部署的采购。"
+      ],
+      "support": "我们在最终品类匹配前协助评估占地、备电时长及环境约束。"
+    },
+    {
+      "slug": "safety-monitoring-solutions",
+      "title": "安全监控解决方案",
+      "summary": "面向温度传感、环境监管及安全相关应用的监控型方案包。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "电力监控与工业监管设备",
+      "intro": "本方案聚焦安全监管、传感及环境告警场景中的监控配件与配套电源要素。",
+      "challenges": [
+        "项目通常同时需要供电支持与传感配件。",
+        "不同监控环境需要不同的探头、线缆及集成件组合。",
+        "客户希望获得超越单一 SKU 的务实清单。"
+      ],
+      "configuration": [
+        "监控主机或供电支持设备。",
+        "按环境匹配的传感器、探头或现场配件。",
+        "用于部署的工业线缆与连接件。"
+      ],
+      "benefits": [
+        "将传感配件与周边供电环境相关联。",
+        "支持监控应用项目中更清晰的沟通。",
+        "提升面向安全场景的采购品类完整性。"
+      ],
+      "support": "我们在报价前协助界定应用环境、配件范围及集成优先级。"
+    }
+  ],
+  "products": [
+    {
+      "slug": "ups-systems",
+      "title": "UPS 系统",
+      "summary": "面向需要稳定供电连续性的 IT、通信、边缘及工业应用的备用电源系统。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/025-lineup-optimized.jpg",
+      "imageAlt": "UPS 与通信电源设备产品系列",
+      "intro": "UPS 系统是客户在 IT、通信及工业场景中实现稳定备用连续性的核心品类。",
+      "applications": [
+        "机房与数据机柜",
+        "通信与分布式通信",
+        "工业控制与边缘环境"
+      ],
+      "includes": [
+        "在线式 UPS 主机",
+        "机架式与塔式结构",
+        "电池扩展及配件选项"
+      ],
+      "benefits": [
+        "支持稳定的备用连续性。",
+        "适配多种部署规模。",
+        "可作为集成项目方案包的重要组成部分。"
+      ]
+    },
+    {
+      "slug": "lithium-battery-systems",
+      "title": "锂电池系统",
+      "summary": "面向备用电源、通信及储能项目、需要务实集成的锂电池储能系统。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "集装箱式锂电池储能系统",
+      "intro": "锂电池系统支持需要务实备电规划与灵活系统匹配的备用、储能及通信应用。",
+      "applications": [
+        "UPS 备电时长扩展",
+        "通信备用电源",
+        "储能配套项目"
+      ],
+      "includes": [
+        "机架电池模块",
+        "机柜级储能选项",
+        "电池管理相关组件"
+      ],
+      "benefits": [
+        "提升众多项目的能量密度。",
+        "支持集成备用与储能相关讨论。",
+        "支持分阶段与可扩展配置。"
+      ]
+    },
+    {
+      "slug": "hybrid-solar-inverters",
+      "title": "混合/光伏逆变器",
+      "summary": "面向户用、商用及储能联动电能转换应用的混合与光伏逆变器品类。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/002-optimized.jpg",
+      "imageAlt": "混合逆变器与光储设备",
+      "intro": "本品类支持需要与储能或并网应用目标匹配的转换设备的光伏与混合项目。",
+      "applications": [
+        "户用光储",
+        "小型商用备用与自发自用",
+        "能源联动转换项目"
+      ],
+      "includes": [
+        "混合逆变器单元",
+        "光伏逆变器型号",
+        "配件与监控支持件"
+      ],
+      "benefits": [
+        "有助于整合转换与储能规划。",
+        "在系统工程前支持务实的品类选择。",
+        "适用于户用与轻商用场景讨论。"
+      ]
+    },
+    {
+      "slug": "telecom-dc-power",
+      "title": "通信与直流电源",
+      "summary": "面向分布式通信站点及工业电源应用的通信电源设备与直流支持模块。",
+      "image": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+      "imageAlt": "通信与直流电源设备",
+      "intro": "本品类涵盖面向分布式站点及相关项目环境的通信电源设备与直流支持模块。",
+      "applications": [
+        "基站与通信机房",
+        "偏远通信部署",
+        "工业直流支持场景"
+      ],
+      "includes": [
+        "整流系统",
+        "直流模块及支持硬件",
+        "监控与保护配件"
+      ],
+      "benefits": [
+        "以务实品类范围支持通信导向项目。",
+        "将核心直流设备与支持配件相结合。",
+        "良好适配分布式部署条件。"
+      ]
+    },
+    {
+      "slug": "monitoring-industrial-cabling",
+      "title": "监控与工业线缆",
+      "summary": "面向电源集成与监管应用的监控配件、传感组件及工业线缆。",
+      "image": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "imageAlt": "监控配件与工业集成设备",
+      "intro": "本品类帮助完善需要传感配件、监控件及工业线缆而不仅是主设备的工程。",
+      "applications": [
+        "环境与安全监控",
+        "电源配件补全",
+        "工业集成项目"
+      ],
+      "includes": [
+        "传感器与探头",
+        "M12 及工业连接线缆",
+        "监控配件与现场部件"
+      ],
+      "benefits": [
+        "完善电源项目的配件层。",
+        "支持现场部署的捆绑采购。",
+        "通过纳入集成件提升项目就绪度。"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "slug": "small-data-center-backup-power",
+      "title": "小型数据中心备用电源",
+      "summary": "面向紧凑型机房与 IDC 环境的备用电源配置参考。",
+      "application": "紧凑型机房与 IDC 环境",
+      "projectStatus": "参考框架",
+      "heroImage": "/downloads/supplier_images/易事特集团股份有限公司/products/011-optimized.jpg",
+      "heroImageAlt": "紧凑型数据中心备用电源参考图示",
+      "gallery": [
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/008-optimized.jpg",
+          "alt": "UPS 主机参考设备"
+        },
+        {
+          "src": "/downloads/supplier_images/佛山市华葆电源设备有限公司/other/020-optimized.jpg",
+          "alt": "备用电源集成参考环境"
+        }
+      ],
+      "galleryNote": "参考图示展示典型设备范围，经批准后将替换为客户项目实拍。",
+      "overview": "本框架说明面向紧凑型机房与 IDC 部署、需明确备电时长与连续性规划的典型备用架构。",
+      "challenge": "在深入工程评审前，客户通常需要了解 UPS、电池及配套配电如何协同工作的务实结构。",
+      "solutionDesign": "该框架将在线 UPS 主机、匹配电池容量及务实配电监控配件整合为清晰的参考路径。",
+      "mainConfiguration": [
+        "在线式 UPS 主机",
+        "电池组或机架模块",
+        "配电与监控配件"
+      ],
+      "deliverySupport": "我们在早期阶段协助明确功率范围、备电时长、机柜约束及采购范围。",
+      "results": [
+        "报价阶段更清晰的项目沟通",
+        "适用于类似小型数据中心需求的可复用结构",
+        "为未来经验证项目素材奠定基础"
+      ]
+    },
+    {
+      "slug": "telecom-base-station-backup-power",
+      "title": "通信基站备用电源",
+      "summary": "面向通信塔及分布式站点的集成备用方案参考。",
+      "application": "通信塔及分布式站点",
+      "projectStatus": "参考框架",
+      "heroImage": "/downloads/supplier_images/深圳索瑞德电子有限公司/products/010-optimized.jpg",
+      "heroImageAlt": "通信基站备用电源参考图示",
+      "gallery": [
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/013-optimized.jpg",
+          "alt": "通信备用电源设备参考"
+        },
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/014-optimized.jpg",
+          "alt": "现场集成配件参考"
+        }
+      ],
+      "galleryNote": "参考图示展示典型设备范围，经批准后将替换为客户项目实拍。",
+      "overview": "本框架展示面向需要韧性的现场部署与务实维护逻辑的通信电源项目常见备用结构。",
+      "challenge": "分布式通信项目通常需要更清晰地说明备电规划、整流器或 UPS 选型及现场配件范围。",
+      "solutionDesign": "参考结构将通信电源设备、储能及关键配件整合为便于与买家和项目伙伴讨论的格式。",
+      "mainConfiguration": [
+        "通信整流器或备用主机",
+        "电池组",
+        "保护、监控与连接配件"
+      ],
+      "deliverySupport": "我们围绕站点条件、自主供电目标及交付匹配提供务实的范围界定支持。",
+      "results": [
+        "提升通信项目讨论的清晰度",
+        "可复用的站点级参考结构",
+        "为后续经验证案例素材预留清晰占位"
+      ]
+    },
+    {
+      "slug": "commercial-industrial-energy-storage",
+      "title": "工商业储能",
+      "summary": "面向削峰填谷、备用电源及站点级能源管理的储能方案参考。",
+      "application": "削峰填谷、备用电源及站点级能源管理",
+      "projectStatus": "参考框架",
+      "heroImage": "/downloads/supplier_images/易事特集团股份有限公司/products/012-optimized.jpg",
+      "heroImageAlt": "工商业集装箱式电池储能系统参考图示",
+      "gallery": [
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/002-optimized.jpg",
+          "alt": "混合逆变器参考设备"
+        },
+        {
+          "src": "/downloads/supplier_images/易事特集团股份有限公司/products/001-optimized.jpg",
+          "alt": "分布式储能设备参考"
+        }
+      ],
+      "galleryNote": "参考图示展示典型设备范围，经批准后将替换为客户项目实拍。",
+      "overview": "本框架说明面向工商业项目、兼顾备用支持与能源优化的站点级储能方案包。",
+      "challenge": "储能项目往往需要在详细工程设计前，更易说明电池、逆变器及配件范围。",
+      "solutionDesign": "该框架将储能单元、逆变器方向及站点集成配件整合为可复用的项目说明模型。",
+      "mainConfiguration": [
+        "电池储能单元",
+        "混合逆变器或 PCS",
+        "监控、保护与配电配件"
+      ],
+      "deliverySupport": "我们围绕站点目标、功率范围及供货范围的实际边界提供早期匹配支持。",
+      "results": [
+        "针对 recurring 储能商机的结构化说明",
+        "客户需求与产品范围更好对齐",
+        "可扩展经验证项目的未来就绪页面体系"
+      ]
+    }
+  ],
+  "ui": {
+    "a11y": {
+      "skipToMain": "跳转到主要内容",
+      "breadcrumb": "面包屑导航",
+      "pageContents": "本页目录"
+    },
+    "nav": {
+      "toggleAria": "切换导航",
+      "menu": "菜单",
+      "primaryAria": "主导航"
+    },
+    "footer": {
+      "brand": "Powerlink Energy",
+      "tagline": "面向供电敏感及关键业务应用的场景优先供货支持。",
+      "directContact": "直接联系"
+    },
+    "noscript": "本网站无需 JavaScript 也可正常使用，核心导航与页面内容均可访问。",
+    "buttons": {
+      "exploreSolutions": "浏览解决方案",
+      "getQuote": "获取报价",
+      "learnMore": "了解更多",
+      "exploreSolution": "了解方案",
+      "viewDetails": "查看详情",
+      "backTo": "返回{label}",
+      "emailUs": "发送邮件",
+      "whatsappUs": "WhatsApp 联系",
+      "contactUs": "联系我们",
+      "talkToTeam": "与团队沟通",
+      "sendInquiry": "发送询价"
+    },
+    "labels": {
+      "email": "Email:",
+      "whatsapp": "WhatsApp:",
+      "website": "网站："
+    },
+    "cards": {
+      "solution": "解决方案",
+      "product": "产品",
+      "verifiedProjectAssets": "已验证项目素材",
+      "projectVisualsLater": "项目图片稍后补充",
+      "verifiedMediaFallback": "经验证的项目素材将在批准后补充。"
+    },
+    "metrics": {
+      "solutionScenarios": "方案场景",
+      "productCategories": "产品品类",
+      "referenceFrameworks": "参考框架",
+      "integratedSupplyPath": "一体化供货路径"
+    },
+    "home": {
+      "eyebrow": "Powerlink Energy",
+      "applications": {
+        "eyebrow": "我们服务的应用领域",
+        "title": "面向关键业务环境的务实支持",
+        "body": "我们以务实的场景化方案支持供电敏感及关键业务环境客户。"
+      },
+      "solutions": {
+        "eyebrow": "基于场景的解决方案",
+        "title": "围绕真实应用构建的解决方案",
+        "body": "我们不仅提供独立产品，更帮助客户将合适设备组合为可落地的电源方案包。"
+      },
+      "products": {
+        "eyebrow": "产品品类",
+        "title": "核心设备品类",
+        "body": "我们的产品组合支持标准供货与集成项目配置。"
+      },
+      "cases": {
+        "eyebrow": "参考框架",
+        "title": "可扩展的参考结构",
+        "body": "参考框架现已说明典型应用结构，后续可演进为经验证的项目库。"
+      },
+      "advantages": {
+        "eyebrow": "为何选择 Powerlink Energy",
+        "title": "快速响应、务实匹配、一站式供货"
+      },
+      "contact": {
+        "eyebrow": "与我们讨论您的应用",
+        "title": "发送应用简介，我们将匹配正确方向",
+        "body": "告知应用场景、功率需求及目标市场，我们将快速协助匹配合适方案。"
+      }
+    },
+    "pages": {
+      "home": {
+        "title": "Powerlink Energy | 一体化电源解决方案",
+        "description": "面向数据中心、通信站点、储能及其他关键应用的场景化电源解决方案。"
+      },
+      "solutions": {
+        "title": "解决方案 | Powerlink Energy",
+        "description": "探索 Powerlink Energy 基于场景的一体化电源解决方案。",
+        "overviewTitle": "基于场景的电源解决方案",
+        "overviewDescription": "我们不仅提供独立产品，更帮助客户将合适设备组合为可落地的电源方案包。"
+      },
+      "products": {
+        "title": "产品 | Powerlink Energy",
+        "description": "浏览 Powerlink Energy 的 UPS、电池、逆变器、通信电源及监控配件产品品类。",
+        "overviewTitle": "面向明确品类买家的产品目录",
+        "overviewDescription": "产品组合既支持标准供货，也支持已明确技术品类的买家的集成项目配置。"
+      },
+      "cases": {
+        "title": "参考框架 | Powerlink Energy",
+        "description": "浏览 Powerlink Energy 面向 recurring 应用结构及未来项目库建设的参考框架。",
+        "overviewTitle": "面向未来项目扩展的参考框架",
+        "overviewDescription": "本节呈现可复用的应用结构与参考内容，后续可成长为经验证的项目库。"
+      }
+    },
+    "casesHero": {
+      "eyebrow": "参考框架",
+      "title": "可成长为真实案例库的参考框架",
+      "body": "使用结构化框架内容清晰说明应用，后续可在不改动页面体系的情况下补充经验证项目照片。",
+      "pills": [
+        "场景导向",
+        "可扩展",
+        "项目就绪"
+      ],
+      "panelEyebrow": "我们如何构建参考框架",
+      "panelTitle": "应用优先，素材其次",
+      "panelBody": "每个页面以可复用模板说明典型需求、设计逻辑、推荐配置及未来项目素材。"
+    },
+    "detail": {
+      "tocTitle": "本页目录",
+      "ctaEyebrow": "联系 Powerlink Energy",
+      "ctaTitle": "需要为您的应用进行务实的产品匹配？",
+      "ctaBody": "告知应用场景、目标市场及预计数量，我们将快速协助匹配合适方案。",
+      "solutionEyebrow": "方案详情",
+      "solutionPills": [
+        "场景驱动内容",
+        "集成支持",
+        "务实交付路径"
+      ],
+      "productEyebrow": "产品品类",
+      "productPills": [
+        "品类供货",
+        "可集成",
+        "项目支持"
+      ],
+      "solutionCards": {
+        "overviewEyebrow": "概览",
+        "overviewTitle": "方案概览",
+        "challengesEyebrow": "痛点",
+        "challengesTitle": "客户痛点",
+        "configurationEyebrow": "配置方案",
+        "configurationTitle": "主要配置",
+        "benefitsEyebrow": "核心优势",
+        "benefitsTitle": "核心优势",
+        "supportEyebrow": "支持",
+        "supportTitle": "交付支持"
+      },
+      "productCards": {
+        "overviewEyebrow": "概览",
+        "overviewTitle": "品类概览",
+        "applicationsEyebrow": "应用场景",
+        "applicationsTitle": "应用场景",
+        "scopeEyebrow": "范围",
+        "scopeTitle": "品类范围",
+        "benefitsEyebrow": "核心优势",
+        "benefitsTitle": "买家选择该品类的原因"
+      },
+      "caseCards": {
+        "overviewEyebrow": "概览",
+        "overviewTitle": "框架概览",
+        "needEyebrow": "典型需求",
+        "needTitle": "典型需求",
+        "designEyebrow": "参考设计",
+        "designTitle": "参考设计",
+        "configurationEyebrow": "配置方案",
+        "configurationTitle": "推荐配置",
+        "supportEyebrow": "支持",
+        "supportTitle": "交付支持",
+        "outcomeEyebrow": "参考成果",
+        "outcomeTitle": "参考成果"
+      }
+    },
+    "gallery": {
+      "eyebrow": "参考图示",
+      "title": "本框架的典型设备范围",
+      "body": "这些图示支持早期项目讨论，有可用素材时将替换为客户项目实拍。"
+    },
+    "collectionLabels": {
+      "solutions": "解决方案",
+      "products": "产品",
+      "cases": "参考框架"
+    },
+    "notFound": {
+      "pageTitle": "404 | Powerlink Energy",
+      "pageDescription": "您访问的页面不存在、已移动或暂时不可用。",
+      "eyebrow": "页面未找到",
+      "title": "404",
+      "body": "您请求的页面不存在、链接已变更或地址暂时不可用。您可以返回首页、浏览解决方案，或直接联系 Powerlink Energy。",
+      "primaryButton": "返回首页",
+      "solutionsButton": "查看解决方案",
+      "contactButton": "联系我们",
+      "note": "若您通过过期链接到达此页，请从首页重新开始，或直接发送项目需求。"
+    },
+    "mailto": {
+      "subject": "Powerlink Energy 询价",
+      "messageHeading": "留言：",
+      "fields": {
+        "name": "姓名",
+        "company": "公司",
+        "country": "国家/地区",
+        "email": "邮箱",
+        "whatsapp": "WhatsApp",
+        "application": "应用场景",
+        "product-interest": "产品意向"
+      }
+    }
+  }
+}

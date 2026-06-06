@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>图片摆放优先级</title>
+    <style>
+      :root {
+        --navy: #071c49;
+        --blue: #18bbff;
+        --ink: #13233f;
+        --muted: #627089;
+        --line: #d9e3ef;
+        --bg: #f4f7fb;
+        --card: #ffffff;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font: 16px/1.6 Arial, Helvetica, sans-serif;
+        color: var(--ink);
+        background: linear-gradient(180deg, #eef4fb, #f9fbfe);
+      }
+      .wrap { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 40px 0 64px; }
+      h1 { margin: 0; font-size: 42px; line-height: 1.1; }
+      .sub { margin: 14px 0 0; color: var(--muted); max-width: 760px; }
+      .tips { margin: 24px 0 32px; padding: 16px 18px; border-radius: 18px; background: rgba(7,28,73,.06); color: var(--navy); }
+      .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        overflow: hidden;
+        box-shadow: 0 18px 44px rgba(7, 28, 73, 0.08);
+      }
+      .mock {
+        padding: 18px;
+        background: linear-gradient(180deg, #0c2a69, #123b8c);
+        min-height: 280px;
+        position: relative;
+      }
+      .mock.home::before,
+      .mock.solution::before,
+      .mock.product::before {
+        content: "";
+        position: absolute;
+        inset: 18px;
+        border-radius: 18px;
+        background: rgba(255,255,255,.08);
+        border: 1px solid rgba(255,255,255,.12);
+      }
+      .bar, .thumb, .line { position: absolute; border-radius: 12px; }
+      .bar { left: 36px; right: 36px; top: 42px; height: 20px; background: rgba(255,255,255,.22); }
+      .line { left: 36px; right: 80px; height: 12px; background: rgba(255,255,255,.14); }
+      .thumb { background: linear-gradient(135deg, rgba(24,187,255,.95), rgba(255,255,255,.45)); border: 1px solid rgba(255,255,255,.15); }
+      .home .thumb.main { left: 36px; right: 36px; top: 82px; height: 132px; }
+      .home .line.a { top: 232px; }
+      .home .line.b { top: 256px; right: 120px; }
+      .home .line.c { top: 280px; right: 180px; }
+      .solution .thumb.side { right: 36px; top: 82px; width: 160px; height: 180px; }
+      .solution .line.a { left: 36px; right: 220px; top: 96px; }
+      .solution .line.b { left: 36px; right: 220px; top: 126px; }
+      .solution .line.c { left: 36px; right: 220px; top: 156px; }
+      .solution .line.d { left: 36px; right: 220px; top: 214px; height: 70px; }
+      .product .thumb.grid1 { left: 36px; top: 92px; width: 132px; height: 112px; }
+      .product .thumb.grid2 { left: 186px; top: 92px; width: 132px; height: 112px; }
+      .product .thumb.grid3 { right: 36px; top: 92px; width: 132px; height: 112px; }
+      .product .line.a { top: 222px; }
+      .product .line.b { top: 248px; right: 150px; }
+      .content { padding: 22px; }
+      .tag { display: inline-block; margin-bottom: 10px; padding: 6px 12px; border-radius: 999px; background: rgba(24,187,255,.12); color: var(--navy); font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+      h2 { margin: 0 0 8px; font-size: 24px; }
+      p { margin: 0; color: var(--muted); }
+      ul { margin: 16px 0 0; padding-left: 18px; color: var(--ink); }
+      li { margin: 6px 0; }
+      .pick { margin-top: 14px; font-weight: 700; color: var(--blue); }
+      @media (max-width: 960px) {
+        .grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>这轮先把哪一块的图片摆放做好？</h1>
+      <p class="sub">先只选一个优先区域。我会围绕你选的区域继续筛图、确定版式，再决定是否正式接进官网。</p>
+      <div class="tips">回复我一个选项即可：A 首页、B 解决方案页、C 产品分类页。</div>
+
+      <div class="grid">
+        <section class="card">
+          <div class="mock home">
+            <div class="bar"></div>
+            <div class="thumb main"></div>
+            <div class="line a"></div>
+            <div class="line b"></div>
+            <div class="line c"></div>
+          </div>
+          <div class="content">
+            <span class="tag">A</span>
+            <h2>首页视觉增强</h2>
+            <p>优先给首页增加场景氛围图、展会图或机房图，提升第一屏和方案区的可信度。</p>
+            <ul>
+              <li>影响最大，最直观</li>
+              <li>但最容易和供应商品牌冲突</li>
+              <li>需要更谨慎挑图</li>
+            </ul>
+            <div class="pick">建议适合：你想先提升整体高级感</div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="mock solution">
+            <div class="bar"></div>
+            <div class="thumb side"></div>
+            <div class="line a"></div>
+            <div class="line b"></div>
+            <div class="line c"></div>
+            <div class="line d"></div>
+          </div>
+          <div class="content">
+            <span class="tag">B</span>
+            <h2>解决方案页增强</h2>
+            <p>优先把数据中心、储能、通信等场景页补成“图文并列”的方案展示，更适合放带行业气质的图。</p>
+            <ul>
+              <li>品牌冲突风险较低</li>
+              <li>更适合机房、项目、场景图</li>
+              <li>转化逻辑更清楚</li>
+            </ul>
+            <div class="pick">建议适合：你想先把专业度做出来</div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="mock product">
+            <div class="bar"></div>
+            <div class="thumb grid1"></div>
+            <div class="thumb grid2"></div>
+            <div class="thumb grid3"></div>
+            <div class="line a"></div>
+            <div class="line b"></div>
+          </div>
+          <div class="content">
+            <span class="tag">C</span>
+            <h2>产品分类页增强</h2>
+            <p>优先把 UPS、锂电、逆变器等分类页补产品图，形成更像目录站的浏览体验。</p>
+            <ul>
+              <li>最容易直接使用现成产品图</li>
+              <li>改造成本低</li>
+              <li>但整体品牌感提升最弱</li>
+            </ul>
+            <div class="pick">建议适合：你想先快速补齐“有图可看”</div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>

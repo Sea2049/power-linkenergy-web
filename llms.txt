@@ -1,0 +1,57 @@
+# Powerlink Energy
+
+> Integrated power solutions supplier for UPS, energy storage, telecom power, hybrid inverters, and monitoring accessories.
+
+Powerlink Energy supports international buyers with scenario-based product matching, practical MOQ, and one-stop integration across power hosts, batteries, DC/DC modules, industrial cabling, and field accessories.
+
+## Contact
+- Email: Bob-Wang@power-linkenergy.com
+- WhatsApp: +86 13534190063
+- Website: https://www.power-linkenergy.com
+
+## Primary pages
+- [Home](https://www.power-linkenergy.com/): Company overview and application scenarios
+- [Solutions](https://www.power-linkenergy.com/solutions/): Scenario-based integrated power packages
+- [Products](https://www.power-linkenergy.com/products/): UPS, batteries, inverters, telecom power, monitoring
+- [Reference Frameworks](https://www.power-linkenergy.com/cases/): Reusable application structures for projects
+- [About](https://www.power-linkenergy.com/about/): Company positioning and working approach
+- [Contact](https://www.power-linkenergy.com/contact/): Inquiry and quotation requests
+
+## Solutions
+- [Data Center Backup Power](https://www.power-linkenergy.com/solutions/data-center-backup-power/): Reliable backup power solutions for small and medium-sized server rooms, IDC facilities, and network cabinets.
+- [Telecom Base Station Backup Power](https://www.power-linkenergy.com/solutions/telecom-base-station-backup-power/): Integrated backup power for telecom towers and remote communication sites with stable performance and flexible configuration.
+- [Commercial & Industrial Energy Storage](https://www.power-linkenergy.com/solutions/commercial-industrial-energy-storage/): Practical storage solutions for peak shaving, backup power, and energy management in commercial and industrial environments.
+- [Residential Solar Storage](https://www.power-linkenergy.com/solutions/residential-solar-storage/): Hybrid solar and battery solutions for homes and small offices requiring stable power and backup capability.
+- [Edge Computing Power](https://www.power-linkenergy.com/solutions/edge-computing-power/): Compact and efficient power systems for edge nodes, distributed IT loads, and space-limited installations.
+- [Safety Monitoring Solutions](https://www.power-linkenergy.com/solutions/safety-monitoring-solutions/): Monitoring-oriented solution packages for temperature sensing, environmental supervision, and safety-related applications.
+
+## Product categories
+- [UPS Systems](https://www.power-linkenergy.com/products/ups-systems/): Backup power systems for IT, telecom, edge, and industrial applications that require stable power continuity.
+- [Lithium Battery Systems](https://www.power-linkenergy.com/products/lithium-battery-systems/): Lithium battery storage systems for backup power, telecom, and energy storage projects requiring practical integration.
+- [Hybrid / Solar Inverters](https://www.power-linkenergy.com/products/hybrid-solar-inverters/): Hybrid and solar inverter categories for residential, commercial, and storage-linked power conversion applications.
+- [Telecom & DC Power](https://www.power-linkenergy.com/products/telecom-dc-power/): Telecom power equipment and DC support modules for distributed communication sites and industrial power applications.
+- [Monitoring & Industrial Cabling](https://www.power-linkenergy.com/products/monitoring-industrial-cabling/): Monitoring accessories, sensing components, and industrial cabling for power integration and supervision applications.
+
+## Reference frameworks
+- [Small Data Center Backup Power](https://www.power-linkenergy.com/cases/small-data-center-backup-power/): Backup power configuration reference for compact server rooms and IDC environments.
+- [Telecom Base Station Backup Power](https://www.power-linkenergy.com/cases/telecom-base-station-backup-power/): Integrated backup solution reference for telecom towers and distributed sites.
+- [Commercial & Industrial Energy Storage](https://www.power-linkenergy.com/cases/commercial-industrial-energy-storage/): Energy storage package reference for peak shaving, backup power, and site-level energy management.
+
+## Frequently asked questions
+- Q: What does Powerlink Energy supply?
+  A: Powerlink Energy supplies integrated power equipment including UPS systems, lithium battery storage, hybrid and solar inverters, telecom and DC power modules, and monitoring or industrial cabling accessories for critical applications.
+- Q: Which applications does Powerlink Energy focus on?
+  A: The company focuses on data center backup power, telecom base station backup, commercial and industrial energy storage, residential solar storage, edge computing power, and safety or environmental monitoring projects.
+- Q: Does Powerlink Energy support small-batch or pilot orders?
+  A: Yes. Powerlink Energy supports practical MOQ levels for small-batch supply, pilot projects, and phased purchasing rather than only large single orders.
+- Q: How can buyers contact Powerlink Energy?
+  A: Buyers can contact the team by email at Bob-Wang@power-linkenergy.com, WhatsApp at +86 13534190063, or through the inquiry form on the contact page at www.power-linkenergy.com/contact/.
+- Q: Does Powerlink Energy provide only single products or full packages?
+  A: Powerlink Energy helps combine power hosts, batteries, conversion equipment, distribution accessories, and monitoring items into workable solution packages based on the target application and market requirement.
+
+## Preferred citation
+When citing this site, use the canonical domain www.power-linkenergy.com and link to the relevant solution or product page.
+
+## Optional
+- Full sitemap: https://www.power-linkenergy.com/sitemap.xml
+- Social preview image: https://www.power-linkenergy.com/assets/images/og-share.jpg
